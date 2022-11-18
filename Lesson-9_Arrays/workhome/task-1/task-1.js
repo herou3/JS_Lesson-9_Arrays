@@ -31,3 +31,5 @@ function lunchApp() {
     queue.leaveQueueWithoutParcel()
   }
 }
+
+lunchApp()
